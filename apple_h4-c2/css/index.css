@@ -1,0 +1,160 @@
+/*banner start*/
+.banner {
+}
+.banner-top {
+    margin-bottom: 10px;
+    background-color: #F9F0EB;
+    width: 100%;
+}
+.banner-top a {
+    text-align: center;
+    color: #000000;
+}
+.banner-top img {
+    /*position: absolute;*/
+    /*left:50% ;*/
+    /*margin-left: -280px;*/
+    margin-top: 50px;
+    margin-left: 550px;
+}
+.banner-top h3 {
+    font-size: 50px;
+    line-height: 43px;
+    padding:  57px 0 21px 0;
+}
+.banner-top p {
+    font-size: 25px;
+}
+
+.banner-middle {
+    margin-bottom: 10px;
+    background-color: #FAFAFA;
+    width: 100%;
+}
+.banner-middle a {
+    text-align: center;
+    color: #000000;
+}
+.banner-middle img {
+    /*position: absolute;*/
+    /*left:50% ;*/
+    /*margin-left: -280px;*/
+    margin-top: 150px;
+    margin-left: 350px;
+}
+.banner-middle h3 {
+    font-size: 50px;
+    line-height: 43px;
+    padding:  57px 0 21px 0;
+}
+.banner-middle p {
+    font-size: 25px;
+}
+
+
+
+
+.banner-bottom {
+    margin-bottom: 10px;
+    background-color: #FAFAFA;
+    width: 100%;
+}
+.banner-bottom a {
+    text-align: center;
+    color: #000000;
+}
+.banner-bottom img {
+    /*position: absolute;*/
+    /*left:50% ;*/
+    /*margin-left: -280px;*/
+    margin-top: 150px;
+    margin-left: 450px;
+}
+.banner-bottom h3 {
+    margin-left: -450px;
+    font-size: 50px;
+    line-height: 43px;
+    padding:  57px 0 21px 0;
+}
+.banner-bottom p {
+    font-size: 25px;
+}
+/*banner end*/
+
+.some {
+
+}
+.some-top {
+    margin-bottom: 10px;
+}
+.some-bottom {
+    margin-bottom: 10px;
+}
+.some-top-l {
+    text-align: center;
+    width: 742px;
+    background-color: #FAFAFA;
+    margin: 10px 0 10px 10px;
+}
+.some-top-l h3 {
+    font-size: 35px;
+    margin-left: -20px;
+}
+.some-top-l span {
+    margin-left: -20px;
+}
+
+.some-top-r {
+    text-align: center;
+    width: 742px;
+    background-color: #FAFAFA;
+    margin: 10px;
+}
+.some-top-r h3 {
+    font-size: 35px;
+    margin-left: -20px;
+}
+.some-top-r span {
+    margin-left: -20px;
+}
+
+.some-bottom-l {
+    text-align: center;
+    margin: 0 0 10px 10px;
+    width: 742px;
+    height: 460px;
+}
+.some-bottom-l a {
+    display: inline-block;
+    width: 742px;
+    height: 460px;
+    background: url("../images/some-bottom-l.jpg") no-repeat -240px;
+}
+.some-bottom-l h3 {
+    margin-top: 20px;
+    font-size: 35px;
+}
+.some-bottom-l h6 {
+    font-size: 15px;
+    line-height: 25px;
+}
+.some-bottom-l p {
+    padding-top: 5px;
+    font: 500 14px/15px "SimSun-ExtB";
+}
+
+
+.some-bottom-r {
+    text-align: center;
+    width: 742px;
+    background-color: #FAFAFA;
+    margin: 0 10px 10px 10px;
+}
+.some-bottom-r h3 {
+    font-size: 35px;
+    margin-left: -20px;
+}
+.some-bottom-r span {
+    margin-left: -20px;
+}
+/*some end*/

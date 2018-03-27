@@ -1,0 +1,80 @@
+.top-banner ul li {
+    padding: 0 18px;
+    float: left;
+}
+.top-banner ul {
+    display: inline-block;
+    margin:  0 auto;
+}
+.top-banner li a {
+    font-size: 12px;
+    display: inline-block;
+    vertical-align: top;
+}
+.top-banner {
+    padding-top: 61px;
+    text-align: center;
+    position: relative;
+    height: 20px;
+    background-color: #2d2d2d;
+    color: #ffffff;
+}
+.top-banner img {
+    position: absolute;
+    top: 0px;
+
+}
+.top-banner #four {
+    position: absolute;
+    right: 841px;
+    top: 0;
+}
+.top-banner #last {
+    position: absolute;
+    top:  0;
+    right: 346px;
+}
+/*top-banner end*/
+
+/*banner start*/
+.banner {
+    padding-top: 50px;
+    text-align: center;
+    background-color:#1a1a1a;
+    color: #ffffff;
+    width: 100%;
+    height: 1025px;
+}
+.banner-buy {
+    font-size: 12px;
+    margin: 0 auto;
+
+    text-align: center;
+    border: 1px solid #737373;
+    border-radius: 10px;
+    padding: 1px 10px;
+    width: 80px;
+    height: 25px;
+    line-height: 25px;
+}
+.banner-say {
+    margin: 30px;
+}
+.banner-say h3 {
+    margin:  20px 0 ;
+    font: 700 80px/80px "simsun";
+}
+.banner-say span {
+    display: block;
+}
+.banner-say a:hover {
+    color: #5e5e5e;
+    text-decoration: dashed;
+}
+.banner .img {
+    position: relative;
+    top: 3px;
+    text-align: center;
+}
+
+/*banner end*/
